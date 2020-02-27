@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name='Trip_Plan_Budget'
